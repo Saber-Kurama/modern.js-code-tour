@@ -1,0 +1,26 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "create 的命令行",
+  "steps": [
+    {
+      "file": "modern.js/packages/toolkit/create/bin/run",
+      "description": "## 命令行入口\n",
+      "line": 23
+    },
+    {
+      "file": "modern.js/packages/toolkit/create/bin/run",
+      "description": "### 通过 tsconfig.json 来判断是否是开发环境",
+      "line": 9,
+      "selection": {
+        "start": {
+          "line": 9,
+          "character": 42
+        },
+        "end": {
+          "line": 9,
+          "character": 50
+        }
+      }
+    }
+  ]
+}

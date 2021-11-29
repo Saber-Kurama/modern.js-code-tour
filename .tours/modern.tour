@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "modern的命令行",
+  "steps": [
+    {
+      "file": "modern.js/packages/cli/core/bin/modern-js.js",
+      "description": "## 命令行的入口\n",
+      "line": 18
+    }
+  ],
+  "ref": "main"
+}
